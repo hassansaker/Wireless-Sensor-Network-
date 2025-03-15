@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:7
+device_longitude:55.46924114227295
+device_latitude:25.267857587467333
+device_elevation:0.0
+device_radius:50.0
+device_hide:1
+device_pic:0
+device_draw_battery:false
+device_sensor_unit_radius:50.0
+device_script_file_name:RX.csc

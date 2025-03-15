@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:49
+device_longitude:55.472127199172974
+device_latitude:25.272558292684128
+device_elevation:0.0
+device_radius:50.0
+device_hide:1
+device_pic:0
+device_draw_battery:false
+device_sensor_unit_radius:50.0
+device_script_file_name:Router.csc
