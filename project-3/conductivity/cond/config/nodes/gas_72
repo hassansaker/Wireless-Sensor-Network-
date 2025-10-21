@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:72
+device_longitude:55.41670739650726
+device_latitude:25.349179464240745
+device_elevation:0.0
+device_radius:30.0
+device_hide:1
+natural_event_file_name:humidity.evt
