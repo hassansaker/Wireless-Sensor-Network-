@@ -1,4 +1,4 @@
-# **Wireless Sensor Network for Air Pollution Monitoring**
+# **Wireless-Sensor-Network-**
 
 ## **Project Overview**
 This project involves designing and simulating a **Wireless Sensor Network (WSN)** for air pollution monitoring in a smart city environment using **CupCarbon**. The simulation focuses on optimizing **node placement, network connectivity, energy efficiency, and data transmission performance**.
