@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:48
+device_longitude:54.43402111530304
+device_latitude:24.28619073277671
+device_elevation:0.0
+device_radius:50.0
+device_hide:1
+natural_event_file_name:Moderate_Pollution.evt

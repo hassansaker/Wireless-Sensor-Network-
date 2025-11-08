@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:57
+device_longitude:54.44147765636444
+device_latitude:24.282547868907333
+device_elevation:0.0
+device_radius:50.0
+device_hide:1
+natural_event_file_name:Low_Pollution.evt

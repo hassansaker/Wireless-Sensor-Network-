@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:53
+device_longitude:54.440662264823914
+device_latitude:24.287222451066924
+device_elevation:0.0
+device_radius:50.0
+device_hide:1
+natural_event_file_name:High_Pollution.evt
