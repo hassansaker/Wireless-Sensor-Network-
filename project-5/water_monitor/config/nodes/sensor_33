@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:33
+device_longitude:31.373802468872064
+device_latitude:31.047256880877526
+device_elevation:0.0
+device_radius:50.0
+device_hide:4
+device_pic:0
+device_draw_battery:false
+device_sensor_unit_radius:50.0
+device_script_file_name:hop_33.csc

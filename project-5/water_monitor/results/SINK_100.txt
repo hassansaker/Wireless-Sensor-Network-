@@ -1,0 +1,7 @@
+==================================================== 
+--------REPORT AFTER 100 Reading-------- 
+The total number of normal reading is:  81.0 
+The total number of warning reading is:  0 
+The total number of critical reading is:  0 
+The total number of emergency reading is:  19.0 
+===================================================== 

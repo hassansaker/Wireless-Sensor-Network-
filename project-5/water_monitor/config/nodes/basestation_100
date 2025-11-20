@@ -1,0 +1,12 @@
+List of parameters
+------------------------------------------
+device_type:4
+device_id:100
+device_longitude:31.37096643447876
+device_latitude:31.04594834251776
+device_elevation:0.0
+device_radius:50.0
+device_hide:4
+device_draw_battery:false
+device_sensor_unit_radius:50.0
+device_script_file_name:SinkNode.csc
